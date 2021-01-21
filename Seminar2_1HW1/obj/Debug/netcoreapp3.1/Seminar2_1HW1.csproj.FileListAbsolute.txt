@@ -1,0 +1,12 @@
+/Users/semenkondakov/Projects/Seminar2_1HW1/Seminar2_1HW1/bin/Debug/netcoreapp3.1/Seminar2_1HW1.deps.json
+/Users/semenkondakov/Projects/Seminar2_1HW1/Seminar2_1HW1/bin/Debug/netcoreapp3.1/Seminar2_1HW1.runtimeconfig.json
+/Users/semenkondakov/Projects/Seminar2_1HW1/Seminar2_1HW1/bin/Debug/netcoreapp3.1/Seminar2_1HW1.runtimeconfig.dev.json
+/Users/semenkondakov/Projects/Seminar2_1HW1/Seminar2_1HW1/bin/Debug/netcoreapp3.1/Seminar2_1HW1.dll
+/Users/semenkondakov/Projects/Seminar2_1HW1/Seminar2_1HW1/bin/Debug/netcoreapp3.1/Seminar2_1HW1.pdb
+/Users/semenkondakov/Projects/Seminar2_1HW1/Seminar2_1HW1/obj/Debug/netcoreapp3.1/Seminar2_1HW1.csprojAssemblyReference.cache
+/Users/semenkondakov/Projects/Seminar2_1HW1/Seminar2_1HW1/obj/Debug/netcoreapp3.1/Seminar2_1HW1.AssemblyInfoInputs.cache
+/Users/semenkondakov/Projects/Seminar2_1HW1/Seminar2_1HW1/obj/Debug/netcoreapp3.1/Seminar2_1HW1.AssemblyInfo.cs
+/Users/semenkondakov/Projects/Seminar2_1HW1/Seminar2_1HW1/obj/Debug/netcoreapp3.1/Seminar2_1HW1.csproj.CoreCompileInputs.cache
+/Users/semenkondakov/Projects/Seminar2_1HW1/Seminar2_1HW1/obj/Debug/netcoreapp3.1/Seminar2_1HW1.dll
+/Users/semenkondakov/Projects/Seminar2_1HW1/Seminar2_1HW1/obj/Debug/netcoreapp3.1/Seminar2_1HW1.pdb
+/Users/semenkondakov/Projects/Seminar2_1HW1/Seminar2_1HW1/obj/Debug/netcoreapp3.1/Seminar2_1HW1.genruntimeconfig.cache
